@@ -1,5 +1,6 @@
-public class test01{
-  public static void main{
-    System.out.println("hello world");
+class test01{
+  public static void main(){
+
+    System.out.println("hellol world");
   }
 }
